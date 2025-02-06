@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../com.spring-cloud.eureka.client.order" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../com.spring-cloud.eureka.client.product" vcs="Git" />
   </component>
 </project>

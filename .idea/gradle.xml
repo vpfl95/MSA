@@ -4,20 +4,29 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/../com.spring-cloud.eureka.client.order/order" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/gateway" />
         <option name="gradleJvm" value="#JAVA_HOME" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/../com.spring-cloud.eureka.client.order/order" />
+            <option value="$PROJECT_DIR$/gateway" />
           </set>
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/../com.spring-cloud.eureka.client.product/product" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/order" />
         <option name="gradleJvm" value="#JAVA_HOME" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/../com.spring-cloud.eureka.client.product/product" />
+            <option value="$PROJECT_DIR$/order" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/product" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/product" />
           </set>
         </option>
       </GradleProjectSettings>
